@@ -5,3 +5,4 @@ SeniorHousing.csv is the final dataset, combining:
   -population of elderly citizens in US, obtained from US census website
 
 
+SeniorHousing_TimeSeries.ipynb contains data cleaning, EDA and machine learning pipelines for estimating occupancy rates.
